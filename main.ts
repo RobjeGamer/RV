@@ -1,3 +1,3 @@
 basic.forever(function () {
-    maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 20)
+    maqueen.motorRun(maqueen.Motors.All, maqueen.Dir.CW, 210)
 })
